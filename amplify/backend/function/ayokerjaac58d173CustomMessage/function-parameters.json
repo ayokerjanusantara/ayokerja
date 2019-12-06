@@ -1,0 +1,16 @@
+{
+    "trigger": true,
+    "modules": [
+        "verification-link"
+    ],
+    "parentResource": "ayokerjaac58d173",
+    "functionName": "ayokerjaac58d173CustomMessage",
+    "parentStack": "auth",
+    "triggerEnvs": "[{\"key\":\"RESOURCENAME\",\"value\":\"resourceName\"}]",
+    "triggerDir": "C:\\Users\\yosia\\AppData\\Roaming\\npm\\node_modules\\@aws-amplify\\cli\\node_modules\\amplify-category-auth\\provider-utils\\awscloudformation\\utils/../triggers/CustomMessage",
+    "roleName": "ayokerjaac58d173CustomMessage",
+    "triggerTemplate": "CustomMessage.json.ejs",
+    "triggerEventPath": "CustomMessage.event.json",
+    "skipEdit": true,
+    "resourceName": "ayokerjaac58d173CustomMessage"
+}

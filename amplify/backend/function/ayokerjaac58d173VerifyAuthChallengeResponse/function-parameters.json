@@ -1,0 +1,16 @@
+{
+    "trigger": true,
+    "modules": [
+        "captcha-verify"
+    ],
+    "parentResource": "ayokerjaac58d173",
+    "functionName": "ayokerjaac58d173VerifyAuthChallengeResponse",
+    "parentStack": "auth",
+    "triggerEnvs": "[]",
+    "triggerDir": "C:\\Users\\yosia\\AppData\\Roaming\\npm\\node_modules\\@aws-amplify\\cli\\node_modules\\amplify-category-auth\\provider-utils\\awscloudformation\\utils/../triggers/VerifyAuthChallengeResponse",
+    "roleName": "ayokerjaac58d173VerifyAuthChallengeResponse",
+    "triggerTemplate": "VerifyAuthChallengeResponse.json.ejs",
+    "triggerEventPath": "VerifyAuthChallengeResponse.event.json",
+    "skipEdit": true,
+    "resourceName": "ayokerjaac58d173VerifyAuthChallengeResponse"
+}

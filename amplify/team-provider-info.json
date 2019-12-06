@@ -1,0 +1,35 @@
+{
+    "master": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-ayokerja-master-20736-authRole",
+            "UnauthRoleArn": "arn:aws:iam::661874678876:role/amplify-ayokerja-master-20736-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::661874678876:role/amplify-ayokerja-master-20736-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-ayokerja-master-20736-deployment",
+            "UnauthRoleName": "amplify-ayokerja-master-20736-unauthRole",
+            "StackName": "amplify-ayokerja-master-20736",
+            "StackId": "arn:aws:cloudformation:us-west-2:661874678876:stack/amplify-ayokerja-master-20736/e6dc28c0-0d0f-11ea-9906-02f4d5795088"
+        },
+        "categories": {
+            "function": {
+                "ayokerjaac58d173DefineAuthChallenge": {},
+                "ayokerjaac58d173CreateAuthChallenge": {},
+                "ayokerjaac58d173VerifyAuthChallengeResponse": {
+                    "RECAPTCHASECRET": ""
+                },
+                "ayokerjaac58d173CustomMessage": {
+                    "REDIRECTURL": "ayokerja.net",
+                    "EMAILSUBJECT": "Thank you for registering!",
+                    "EMAILMESSAGE": "Thank you for registering. Your account have been created. AyoKerja!"
+                }
+            },
+            "auth": {
+                "ayokerjaac58d173": {
+                    "facebookAppId": "2650388111673670",
+                    "googleClientId": "117073603181-lj0vrui8b1qfojc27fv871j3ku1mvr58.apps.googleusercontent.com",
+                    "hostedUIProviderCreds": "[{\"ProviderName\":\"Facebook\",\"client_id\":\"2650388111673670\",\"client_secret\":\"8faf088c5ef03b4c10e9257363cda07f\"},{\"ProviderName\":\"Google\",\"client_id\":\"117073603181-lj0vrui8b1qfojc27fv87lj3ku1mvr58.apps.googleusercontent.com\",\"client_secret\":\"kwfMqNfEjQxBqxupGQwczuCs\"}]"
+                }
+            }
+        }
+    }
+}
